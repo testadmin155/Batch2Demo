@@ -7,6 +7,7 @@ public class Logintest {
 	 @Test
 	 public void test1() {
 		 System.out.println("testcase2");
+		 System.out.println("Pushing teh code 2nd time");
 	 }
 	 
 }
