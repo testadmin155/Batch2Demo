@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="68" started-at="2022-09-07T18:10:30Z" finished-at="2022-09-07T18:10:30Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="68" started-at="2022-09-07T18:10:30Z" finished-at="2022-09-07T18:10:30Z">
+      <class name="test.Logintest">
+        <test-method status="PASS" signature="testcase1()[pri:0, instance:test.Logintest@735f7ae5]" name="testcase1" duration-ms="16" started-at="2022-09-07T20:10:30Z" finished-at="2022-09-07T20:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+        <test-method status="PASS" signature="testcase2()[pri:0, instance:test.Logintest@735f7ae5]" name="testcase2" duration-ms="1" started-at="2022-09-07T20:10:30Z" finished-at="2022-09-07T20:10:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- test.Logintest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
