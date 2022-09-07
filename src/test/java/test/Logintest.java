@@ -11,7 +11,7 @@ public class Logintest {
 	
 	@Test
 	public void testcase2() {
-		System.out.println("test case2");
+		System.out.println("test cases2");
 	}
 
 }
